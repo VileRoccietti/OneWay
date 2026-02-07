@@ -1,0 +1,25 @@
+{
+    "token": "",
+    "clientId": "",
+    "guildId": "",
+    "ownerId": "",
+    "prefix": ".",
+    "phaseRoles": {
+        "0": "",
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": ""
+    },
+    "tierRoles": {
+        "high": "",
+        "mid": "",
+        "low": ""
+    },
+    "subTierRoles": {
+        "strong": "",
+        "stable": "",
+        "weak": ""
+    }
+}
